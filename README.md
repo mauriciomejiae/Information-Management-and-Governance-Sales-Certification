@@ -1,2 +1,2 @@
 # Information Management and Governance Sales Certification
- Micro Focus 
+ Information Management and Governance Sales Certification by Micro Focus 
